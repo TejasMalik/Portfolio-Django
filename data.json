@@ -1,0 +1,15 @@
+{
+    "NAME": "Tejas Malik",
+    "ABOUT_ME": "I am an eager beaver and have always been fascinated by the new technological innovations and advancements happening all around the world. In this content, I make concerted efforts in keeping myself abreast with exciting and emerging technologies beyond my core engineering stream.",
+    "LANGUAGES": [
+        "Python",
+        "Java",
+        "C++",
+        "Kotlin"
+    ],
+    "PROJECTS": [
+        ["filter_drama", "project name", "project description"],
+        ["place", "project name", "project description"],
+        ["whatshot", "project name", "project description"]
+    ]
+}
